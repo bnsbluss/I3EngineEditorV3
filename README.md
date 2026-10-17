@@ -1,5 +1,6 @@
 # 🎮 I3 Engine Editor V3
-
+<img width="1689" height="715" alt="I3Untitled" src="https://github.com/user-attachments/assets/77d07cd7-1c93-4e27-8f85-ac74c37177bd" />
+<img width="1708" height="724" alt="Untitled" src="https://github.com/user-attachments/assets/e4ddc280-079e-4f89-b35c-f92774c48c71" />
 
 Memindahkan skin **Avatar V2** Point Blank ke **karakter V1**, supaya skin itu memakai bone V1:
 skeleton, ragdoll, serta titik senjata dan helm (WeaponPointDummy / HelmetPointDummy).
